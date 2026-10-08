@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+# Bloquea acceso directo a archivos internos
+<FilesMatch "^(config|slots)\.php$">
+  Require all denied
+</FilesMatch>
+Options -Indexes

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997980280803",
+    "project_id": "citamed-ca60f",
+    "storage_bucket": "citamed-ca60f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997980280803:android:3638f9d9045d9f945272d6",
+        "android_client_info": {
+          "package_name": "com.example.citamed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997980280803-i5rpru31pg77u4kfrhtjgkahuo4km171.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citamed",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d5478e2a652e500145b75"
+          }
+        },
+        {
+          "client_id": "997980280803-fcgg2dqg1v85a0ifnrisotoseljig33h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPoI3keaaLrO2SlcA10JNQ8DBrjJbmSnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997980280803-fcgg2dqg1v85a0ifnrisotoseljig33h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
